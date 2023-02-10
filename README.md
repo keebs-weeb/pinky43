@@ -8,7 +8,7 @@ It stems from pain in my pinky fingers from typing all day, something I have hea
 
 I have design this keyboard with a few things in mind:
 * Reduces the use of my pinkies
-* Has a for factor I like
+* Has a form factor I like
 * Has a typing angle I like
 
 ## The Catalyst
